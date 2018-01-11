@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<website>
+   <title>GEM</title>
+   <style>
+body {
+    background-color: #00BCD4;
+    background-image: url("/image.png");
+}
+div.row:first-child div.col-sm-2 {
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    color: white; 
+}
+div.row:last-child div.col-sm-2 {
+    background-color: #FFEB3B;
+    border-style: ridge;
+}
+.panel h2 {color: #F44336;}
+.panel h3 {color: #2196F3;}
+.panel i    {color: #3F51B5;}
+li span {color: #4CAF50;}
+   </style>
+   <page type='page' language='EN'>
+      <name> Home</name>
+      <image></image>
+      <contents>
+Welcome to the GEM website creator. &amp;nbsp;Here you can easily create and publish a basic website for free. &amp;nbsp;It is ideal for small businesses, doctors, hobbyists, publishing reports, promoting affiliated products, and more. &amp;nbsp;No programming experience necessary. &amp;nbsp;No login required, no sign up required. &amp;nbsp;You can create up to 6 pages. &amp;nbsp;You can include an image for each page. &amp;nbsp;The image will be displayed at the top of each page. &amp;nbsp;After you are done, click continue to preview your website. &amp;nbsp;To get started, &lt;a href=&quot;https://www.gem-editor.com/gwc/website_editor.php&quot; class=&quot;btn btn-primary btn-xs&quot;&gt;click here&lt;/a&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To open a previously saved website, &lt;a href=&quot;https://www.gem-editor.com/gwc/website_editor.php?ow=1&quot; class=&quot;btn btn-primary btn-xs&quot;&gt;click here&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;The GEM website editor currently uses a growing number of themes that use various modern CSS frameworks and supports input of Font Awesome icons and more.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To make a website you desire, you can choose to create a website yourself, or you can have someone assist you in creating the website. &amp;nbsp;GEM makes it easier to collaborate with programmers so that you are not doing 100% of the work in developing a website.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;If you are new to programming and choose to create websites yourself using GEM, you can gain valuable web development experience and skills. &amp;nbsp;There is no limit in the number of websites you can create using GEM.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If you need help using GEM, please see our &lt;a href=&quot;?p=2&quot;&gt;Frequently Asked Questions&lt;/a&gt; (FAQ) page, or feel free to contact us using our form on the &lt;a href=&quot;?p=3&quot;&gt;Contact Us&lt;/a&gt; page. &amp;nbsp;To download a sample website file to help you create your website, &lt;a href=&quot;website_gem.xml&quot; class=&quot;btn btn-primary btn-xs&quot; download=&quot;&quot;&gt;click here&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h3&gt;&lt;span class=&quot;fa&quot;&gt;&lt;/span&gt;&amp;nbsp;Self-host your Website&lt;/h3&gt;&lt;div&gt;&lt;div&gt;You can choose to self-host your website. &amp;nbsp;Currently all of the available themes can be downloaded and transferred to your host. &amp;nbsp;Setup is quick and easy. &amp;nbsp;To see a list of themes available to download on GitHub, &lt;a href=&quot;https://emrickj.github.io/themes&quot; class=&quot;btn btn-primary btn-xs&quot;&gt;click here&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h3&gt;&lt;span class=&quot;fa&quot;&gt;&lt;/span&gt;&amp;nbsp;Earn Money using GEM&lt;/h3&gt;&lt;div&gt;&lt;div&gt;In addition to banner advertisements, you can have your pages along with pages promoting affiliated products or services on a website similar to what was done to this website. &amp;nbsp;To do this, simply create pages promoting affiliated product(s) or service(s) using the GEM website editor and then save pages as a website file. &amp;nbsp;Next is to e-mail me the website URL(s) you would like to update along with the website file as an attachment to &lt;a href=&quot;mailto:emrickj248@comcast.net&quot;&gt;emrickj248@comcast.net&lt;/a&gt; and then I will update your website(s). &amp;nbsp;To download a sample website file, &lt;a href=&quot;byethost.xml&quot; class=&quot;btn btn-primary btn-xs&quot; download=&quot;&quot;&gt;click here&lt;/a&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h3&gt;&lt;span class=&quot;fa&quot;&gt;&lt;/span&gt;&amp;nbsp;Shortcut Keys&lt;/h3&gt;&lt;div&gt;To make GEM easier to navigate, Shortcut Keys can be used. &amp;nbsp;Hold down &lt;kbd&gt;Alt&lt;/kbd&gt; Key and the following Keys to go to that part of GEM.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;1&lt;/kbd&gt; - Go to Page 1&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;2&lt;/kbd&gt; - Go to Page 2&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;3&lt;/kbd&gt; - Go to Page 3&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;4&lt;/kbd&gt; - Go to Page 4&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;5&lt;/kbd&gt; - Go to Page 5&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;6&lt;/kbd&gt; - Go to Page 6&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;C&lt;/kbd&gt; - Add/Edit CSS&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;S&lt;/kbd&gt; - Submit Website&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;O&lt;/kbd&gt; - Show Options List&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;&lt;kbd&gt;W&lt;/kbd&gt; - Open Website&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note: For Windows and Linux users using Firefox, use &lt;kbd&gt;Shift&amp;nbsp;+&amp;nbsp;Alt&lt;/kbd&gt;&amp;nbsp;+ access key. &amp;nbsp;For Macintosh users, use &lt;kbd&gt;Control&amp;nbsp;+&amp;nbsp;Alt&lt;/kbd&gt; + access key.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h4 style=&quot;text-align: center;&quot;&gt;&lt;i class=&quot;fa&quot;&gt;&lt;a href=&quot;https://www.facebook.com/GEM-Website-Creator-1972669663019442/&quot;&gt;&lt;/a&gt;&lt;/i&gt;&amp;nbsp;Visit us on Facebook | &lt;a href=&quot;?p=3&quot;&gt;Advertise&lt;/a&gt;&lt;/h4&gt;
+      &lt;/div&gt;&lt;/div&gt;
+      </contents>
+   </page>
+   <page type='page' language='EN'>
+      <name> FAQ</name>
+      <image></image>
+      <contents>
+&lt;h2&gt;Frequently Asked Questions&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓠ&lt;/span&gt; &lt;b&gt;&lt;i&gt;Can I save the information I entered on GEM?&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓐ&lt;/span&gt; Yes. &amp;nbsp;To save the information, click on Continue located on the bottom of the GEM website editor page or use &lt;kbd&gt;Alt&amp;nbsp;+&amp;nbsp;S&lt;/kbd&gt;. &amp;nbsp;After the successful submission of your website, click on Save Website. &amp;nbsp;You will have the option to name the file you want to save. &amp;nbsp;This file will usually be saved in the Download Folder of your computer or mobile device.&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓠ&lt;/span&gt; &lt;i&gt;&lt;b&gt;How do I load a previous saved website?&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓐ&lt;/span&gt; On the GEM website editor page, click on Options on the bottom of the page. &amp;nbsp;On the list of options, click on Open Website. &amp;nbsp;It will asked you to select a website file. &amp;nbsp;Select the file you have previously saved on the website editor. &amp;nbsp;This file is usually located in the Download Folder of your computer or mobile device. &amp;nbsp;You can also use &lt;kbd&gt;Alt&amp;nbsp;+&amp;nbsp;W&lt;/kbd&gt; to open a website.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓠ&lt;/span&gt; &lt;b&gt;&lt;i&gt;Do you place advertisements on a published website?&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓐ&lt;/span&gt; No. &amp;nbsp;We do not place advertisements on any published website other than a single, customizable, drop-down button to advertise a product or service. &amp;nbsp;You can choose to remove it for a one time charge.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓠ&lt;/span&gt; &lt;b&gt;&lt;i&gt;Can the website be viewed on mobile devices?&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓐ&lt;/span&gt; This will depend on what theme you are using on the website. &amp;nbsp;All of the currently available themes can be viewed on mobile devices.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓠ&lt;/span&gt; &lt;b&gt;&lt;i&gt;Can I customize the look of my website?&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓐ&lt;/span&gt; You can add or modify a Cascading Style Sheet (CSS) for any website you create. &amp;nbsp;To add or modify a CSS, click on Options located on the bottom of the GEM website editor page or use &lt;kbd&gt;Alt&amp;nbsp;+&amp;nbsp;O&lt;/kbd&gt;. &amp;nbsp;In the Options window, click on Edit CSS. &amp;nbsp;For CSS examples, &lt;a href=&quot;http://www.w3schools.com/css/css_examples.asp&quot; class=&quot;btn btn-primary btn-xs&quot;&gt;click here&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓠ&lt;/span&gt; &lt;i&gt;&lt;b&gt;Can I add icons to my website? If so, how?&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span class=&quot;fa fa-lg&quot;&gt;Ⓐ&lt;/span&gt; Yes, adding icons is easy. &amp;nbsp;To add Font Awesome icons to a Page Name, right-click on the Page Name field. &amp;nbsp;To add icons in the contents of any page, use the Insert Icon toolbar button, or right-click on the toolbar of the contents area. &amp;nbsp;For more information on Font Awesome icons, &lt;a href=&quot;http://fontawesome.io&quot; class=&quot;btn btn-primary btn-xs&quot;&gt;click here&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+      </contents>
+   </page>
+   <page type='form' language='EN'>
+      <name>Contact Us</name>
+      <image></image>
+      <contents>
+If you have questions, comments, or if you like more information on how to advertise on this website, please feel free to contact us using the form below.&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+      </contents>
+   </page>
+   <page type='page' language='EN'>
+      <name>Employment</name>
+      <image></image>
+      <contents>
+&lt;h2&gt;Employment&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;An Employment opportunity as a Technical Support Representative is currently available. &amp;nbsp;This is a work from home opportunity with flexible hours. &amp;nbsp;You can also build websites for customers using GEM and set your own rates. &amp;nbsp;Knowledge of CSS3, HTML5, and Bootstrap is helpful. &amp;nbsp;If interested, please e-mail résumé to &lt;a href=&quot;mailto:emrickj248@comcast.net&quot;&gt;emrickj248@comcast.net&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+      </contents>
+   </page>
+   <page type='page' language='EN'>
+      <name></name>
+      <image></image>
+      <contents>
+
+      </contents>
+   </page>
+   <page type='page' language='EN'>
+      <name></name>
+      <image></image>
+      <contents>
+
+      </contents>
+   </page>
+</website>
