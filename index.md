@@ -1,0 +1,29 @@
+Welcome to the GEM website creator.  Here you can easily create and publish a basic website for free.  It is ideal for small businesses, doctors, hobbyists, publishing reports, promoting affiliated products, and more.  No programming experience necessary.  No login required, no sign up required.  You can create up to 6 pages.  You can include an image for each page.  The image will be displayed at the top of each page.  After you are done, click continue to preview your website.  To get started, [click here](https://emrickj.github.io/gwc).
+
+To open a previously saved website, [click here](https://emrickj.github.io/gwc/?ow=1).
+
+The GEM website editor currently uses a growing number of themes that use various modern CSS frameworks and supports input of Font Awesome icons and more.
+
+If you need help using GEM, please see our Frequently Asked Questions (FAQ) page, or feel free to contact us using our form on the Contact Us page.  To download a sample website file to help you create your website, <a href="website_gem.xml" download>click here</a>.
+
+### Self-host your Website
+You can choose to self-host your website.  Currently all of the available themes can be downloaded and transferred to your host.  Setup is quick and easy.  To see a list of themes available to preview and download on GitHub, [click here](https://emrickj.github.io/themes).
+
+### Earn Money using GEM
+In addition to banner advertisements, you can have your pages along with pages promoting affiliated products or services on a website similar to what was done to this website.  To do this, simply create pages promoting affiliated product(s) or service(s) using the GEM website editor and then save pages as a website file.  Next is to e-mail me the website URL(s) you would like to update along with the website file as an attachment to emrickj248@comcast.net and then I will update your website(s).  To download a sample website file, <a href="byethost.xml" download>click here</a>.
+
+### Shortcut Keys
+To make GEM easier to navigate, Shortcut Keys can be used.  Hold down `Alt` Key and the following Keys to go to that part of GEM.
+
+  `1` - Go to Page 1  
+  `2` - Go to Page 2  
+  `3` - Go to Page 3  
+  `4` - Go to Page 4  
+  `5` - Go to Page 5  
+  `6` - Go to Page 6  
+  `C` - Add/Edit CSS  
+  `S` - Submit Website  
+  `O` - Show Options List  
+  `W` - Open Website  
+
+Note: For Windows and Linux users using Firefox, use `Shift + Alt` + access key.  For Macintosh users, use `Control + Alt` + access key.
