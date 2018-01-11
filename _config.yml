@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+title: GEM Website Creator
+collections:
+  doc_pages:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: doc_pages
+    values:
+      layout: page
