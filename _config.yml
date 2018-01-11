@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+title: GEM Website Creator
 collections:
   doc_pages:
     output: true
