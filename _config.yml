@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 collections:
-- doc_pages
+  doc_pages:
+    output: true
