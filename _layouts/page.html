@@ -30,8 +30,12 @@ li span {color:#4CAF50;}
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-	{% for item in site.doc_pages %} 
-        <li><a href='{{ item.url | relative_url }}'>{{ item.title }}</a></li>
+	{% for item in site.doc_pages %}
+	{% assign bs = "" %}
+	{% if page.url == item.url %}
+	    {% assign bs = " class='active'" %}
+	{% endif %}
+        <li{{ bs }}><a href='{{ item.url | relative_url }}'>{{ item.title }}</a></li>
 	{% endfor %}
       </ul>
     </div>
