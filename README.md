@@ -1,2 +1,2 @@
 # gwc-docs
-Documentation for GEM Website Creator.
+Documentation for 💎GEM Website Creator.
